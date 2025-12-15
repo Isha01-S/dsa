@@ -14,4 +14,4 @@ n= int(input("Enter n: "))
 factorial=Factorial(n)
 print(f"Factoria of {n} is: {factorial}")
 
-
+    
